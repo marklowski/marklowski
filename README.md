@@ -12,7 +12,7 @@ I am a Full Stack Developer from Germany
 - 🔭 I am working on UI5 Web Applications, as well as the communication to the corresponding SAP Backend System. Because that's not enough I am also working on SAP Software for the Energy Sector.
 - 🌱 I’m currently learning the ropes of the SAP PM Module.
 - 📫 How to reach me: I'm looking into my linked eMail every few weeks or so.
-- :zap: Fun Fact: I am using the Arch Penguin. <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Tux" alt="Tux" width="10" height="10"/>
+- :zap: Fun Fact: I am using the Arch Penguin. <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Tux" alt="Tux" width="20" height="20"/>
 
 ---
 
@@ -37,4 +37,4 @@ I am a Full Stack Developer from Germany
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marklowski&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marklowski)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marklowski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
